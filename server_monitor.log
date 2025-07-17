@@ -1,0 +1,18 @@
+Server: archlinux
+Date: 2025-07-17 20:33:49
+
+ALERT: CPU high: 2.3
+ALERT: Memory high: 33.2822
+
+{
+    "MessageId": "d16219a0-fb71-5923-a531-7953e86a4e19"
+}
+Server: archlinux
+Date: 2025-07-17 20:34:32
+
+ALERT: CPU high: 12.2
+ALERT: Memory high: 4.46186
+
+{
+    "MessageId": "c1d4bc1a-bb46-5f4b-8b1b-dce9a80c640c"
+}
